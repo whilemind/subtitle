@@ -36,3 +36,8 @@ $ python
 
 We will need a movie *.mp4 file which subtitle will be generated automatically. At first the sound file need to be seperated from the video file for that we will use the following command:
 $ python recognizer.py -video ../Ertuğrul/Ertugrul-147.mp4
+
+### Run the program
+From the root directory, you need to write this command to execute.
+$ python src/subtitle.py -v input/input.mp4 -o output/ -l en
+The output input.srt file will be in the input folder if it runs without any error.
