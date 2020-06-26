@@ -11,6 +11,9 @@ $ pip install SpeechRecognition
 ### Google api client
 $ pip install google-api-python-client
 
+### FFMPEG python packages
+$ pip install ffmpeg-python
+
 ### FFMPEG for MacOS
 $ brew install ffmpeg
 
