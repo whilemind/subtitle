@@ -1,5 +1,5 @@
 # SubTitle
-
+This project is to use to generate a subtitle automatically of a movie file as well as a translator option. 
 ## Require packages
 
 ### To split the background music and voice from a single voice file.
