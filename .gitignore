@@ -1,16 +1,7 @@
 # Project specific
-ertu/
-ertu2/
 output/
 pretrained_models/
-samples/
 thirdparty/
-current.wav
-result.txt
-tmp_32.wav
-tmp.wav
-vocals.srt
-vocals.wav
 input/
 .DS_Store
 src/.DS_Store
