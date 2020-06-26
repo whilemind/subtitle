@@ -1,3 +1,17 @@
+# Project specific
+ertu/
+ertu2/
+output/
+pretrained_models/
+samples/
+thirdparty/
+current.wav
+result.txt
+tmp_32.wav
+tmp.wav
+vocals.srt
+vocals.wav
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
